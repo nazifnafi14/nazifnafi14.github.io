@@ -1,7 +1,6 @@
 ---
 title: "new post"
 date: "2026-09-13"
-bookmark: true
 ---
 
 # Welcome
