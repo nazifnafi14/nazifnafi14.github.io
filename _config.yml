@@ -1,6 +1,6 @@
 title: "Nazif N"
-author: "Blog Author"
-description: "My blog"
+author: "Nazif Nafi"
+description: "Nazif's personal webpage"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,9 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
+  - {file: "blog.md", title: "blog", sidebaricon: home}
   #- {file: "blog.md", title="blog"}
-  - {file: "README.md", sidebaricon: address-card}
+  #- {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:nazif.nafi@tamu.edu"}
