@@ -1,5 +1,5 @@
 ---
-title: "Personal Blog"
+title: "Posts"
 layout: default
 ---
 
